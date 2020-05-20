@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+@font-face {
+    font-family: 'BLotus', SansSerif;
+    src: url("fonts/BLotus.ttf");
+}
