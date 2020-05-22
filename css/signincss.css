@@ -1,0 +1,56 @@
+@import "reboot.css";
+.wrapper{
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(to left, rgba(50,50,50,0.2), rgba(50,50,50,0.2)),url("../images/BackgroundCover.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    direction: ltr;
+}
+.wrapper h1:nth-child(1){
+    font-family: IranSansBold;
+    font-size: 60px;
+    direction: ltr;
+    padding-top: 120px;
+    padding-left: 350px;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+form{
+    direction: ltr;
+    margin-left: 170px;
+
+}
+[type=text],[type=password]{
+
+    display: block;
+    width: 300px;
+    height: 50px;
+    border: 1px solid #2d2eff;
+    border-radius: 7px;
+    text-align: center;
+    margin-bottom: 7px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    color: black;
+}
+[type=submit]{
+    display: block;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #2d2eff;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 1px;
+    margin-left: 75px;
+    box-sizing: border-box;
+    color: black;
+}
+.wrapper [type=submit]:hover{
+    background-color: #2d2eff;
+    color: whitesmoke;
+}
