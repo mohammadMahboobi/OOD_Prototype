@@ -37,3 +37,6 @@
     background-color: #2d2eff;
     color: whitesmoke;
 }
+.wrapper a:active{
+    background-color: rgb(0,0,180);
+}
