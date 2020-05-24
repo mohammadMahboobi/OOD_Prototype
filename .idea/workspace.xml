@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/customerMainPageCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/icons/search-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/signincss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/signincss.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/icons" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,14 +54,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/icons" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -92,7 +92,8 @@
       <workItem from="1590037682342" duration="578000" />
       <workItem from="1590057359354" duration="4981000" />
       <workItem from="1590066316728" duration="3581000" />
-      <workItem from="1590233709241" duration="529000" />
+      <workItem from="1590233709241" duration="1123000" />
+      <workItem from="1590331268600" duration="8197000" />
     </task>
     <servers />
   </component>
@@ -115,10 +116,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1590058475346" />
-    <state x="174" y="2" key="CommitChangelistDialog2" timestamp="1590066500524">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="155" y="2" key="CommitChangelistDialog2" timestamp="1590234525446">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="155" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1590063310621" />
+    <state x="155" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1590234525446" />
     <state x="174" y="2" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590066500524" />
     <state x="467" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590233979028">
       <screen x="0" y="0" width="1280" height="800" />
