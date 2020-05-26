@@ -1,6 +1,5 @@
 @import "reboot.css";
 
-
 /************************ menu *****************************/
 .wrapper section:nth-child(1) {
     background-color: rgba(50, 50, 150, 0.2);
@@ -133,6 +132,9 @@ i.caret-down {
     min-height: 800px;
     background: url("../images/BackgroundCover.jpg") center center no-repeat fixed;
     background-size: cover;
+    text-align: center;
+    padding-bottom: 20px;
+    box-sizing: border-box;
 }
 
 /************************ newest *****************************/
@@ -141,14 +143,14 @@ i.caret-down {
     width: 100%;
     height: 40px;
     text-align: center;
-    background-color: transparent;
+    background-color: rgba(255, 255, 255, 0.6);
     padding: 10px 0;
     border: none;
 }
 
 .wrapper section:nth-child(2) section:nth-child(2) div {
     display: inline-block;
-    width: 30%;
+    width: 28%;
     height: 380px;
     background-color: rgba(255, 255, 255, 0.9);
     margin: 10px 20px 10px 20px;
@@ -182,6 +184,17 @@ i.caret-down {
     margin: 10px;
     padding-top: 5px;
     box-sizing: border-box;
+    transition: width 0.3s ease-out;
+}
+
+.wrapper section:nth-child(2) section:nth-child(2) div a:hover {
+    width: 170px;
+    border: 2px solid black;
+    padding-top: 3px;
+}
+
+.wrapper section:nth-child(2) section:nth-child(2) div a:active {
+    background-color: rgb(0, 0, 180);
 }
 
 .wrapper section:nth-child(2) section:nth-child(2) div span:nth-child(6) {
