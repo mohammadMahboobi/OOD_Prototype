@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/CostumerPackages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/CostumerPackages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +52,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/books" />
       <recent name="$PROJECT_DIR$/css/icons" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/fonts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -97,6 +97,7 @@
       <workItem from="1590380557617" duration="10061000" />
       <workItem from="1590482812333" duration="7000000" />
       <workItem from="1590500224554" duration="1997000" />
+      <workItem from="1590518288307" duration="308000" />
     </task>
     <servers />
   </component>
