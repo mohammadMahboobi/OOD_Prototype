@@ -4,6 +4,7 @@
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/customerMainPageCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/customerMainPageCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/icons/search-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/books" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,15 +54,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/books" />
       <recent name="$PROJECT_DIR$/css/icons" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/fonts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -93,7 +95,8 @@
       <workItem from="1590066316728" duration="3581000" />
       <workItem from="1590233709241" duration="1123000" />
       <workItem from="1590331268600" duration="8625000" />
-      <workItem from="1590380557617" duration="9801000" />
+      <workItem from="1590380557617" duration="10061000" />
+      <workItem from="1590482812333" duration="4288000" />
     </task>
     <servers />
   </component>
