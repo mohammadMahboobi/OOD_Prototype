@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WalletCharge</title>
+    <link rel="stylesheet" href="css/customerMainPageCss.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/walletcharge.css">
+</head>
+<body>
+<!--************************ make menu *****************************-->
+<section class="wrapper">
+
+    <section>
+        <nav>
+            <ul>
+                <li><a href="customerMainPage.html">صفحه اصلی</a></li>
+                <li><a href="#">داغ‌ترین‌ها</a></li>
+                <li><a href="#">دسته‌ها</a></li>
+                <li><a href="#">کتابخانه‌ی من</a></li>
+                <li>
+                    <form action="#">
+                        <i class="fa fa-search icon"></i>
+                        <input type="text" placeholder="جستجو...">
+                    </form>
+                </li>
+                <li>
+                    <button>
+                        <i class="fa fa-user icon"><i class="fa fa-caret-down caret-down"></i></i>
+                    </button>
+                    <ul class="user-drop-down-menu">
+                        <li><a href="#">مشاهده پروفایل</a></li>
+                        <li><a href="CostumerPackage.html">خرید پکیج</a></li>
+                        <li><a href="#">شارژ کیف پول</a></li>
+                        <li><a href="#">تماس با ما</a></li>
+                        <li><a href="#">خروج</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </section>
+</section>
+<!-- **************************** end menu *****************************-->
+<section class="wallet">
+    <br>
+        <h1>
+            شارژ کیف پول
+        </h1>
+    <hr>
+        <section class="charge">
+            <form action="pay.html">
+                <input type="text" placeholder="مبلغ مورد نظر خود را به تومان وارد کنید">
+                <br>
+                <span>
+                    درگاه خود را انتخاب کنید :
+                </span>
+                <br>
+                <input type="radio" name="bank">
+                <label>بانک پارسیان</label>
+                <br>
+                <input type="radio" name="bank">
+                <label>بانک صادرات</label>
+                <br>
+                <input type="radio" name="bank">
+                <label>بانک ملت</label>
+                <br>
+                <input type="submit" value="پرداخت">
+            </form>
+        </section>
+</section>
+</body>
+</html>

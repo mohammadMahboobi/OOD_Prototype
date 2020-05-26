@@ -1,0 +1,103 @@
+@import "reboot.css";
+section.wallet{
+    width: 100%;
+    background-color: rgba(242,242,242,0.4);
+    height: 800px;
+
+}
+section.wallet > h1{
+    text-align:center ;
+    color: gray;
+    font-size: 35px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.wallet hr{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+}
+.wallet section.charge [type=text]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 45px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: solid;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    background-color:rgba(242,242,242,0.6);
+    color: black;
+    transition: ease-in 0.3s;
+
+}
+section.wallet > section.charge > form > span:nth-child(3){
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+section.wallet > section.charge > form > [type=radio]{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin-right: 670px;
+
+}
+section.wallet > section.charge > form > label:nth-child(6) , label:nth-child(8) , label:nth-child(10){
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+
+}
+
+section.wallet > section.charge > form >[type=submit]{
+    display: block;
+    width: 15%;
+    height: 50px;
+    border-style: solid;
+    box-sizing: border-box;
+    background-color: limegreen;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.wallet section.charge [type=text]:focus{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 45px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: solid;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    background-color:rgba(242,242,242,0.6);
+    color: black;
+
+}
+section.wallet > section.charge > form >[type=submit]:hover{
+    display: block;
+    width: 15%;
+    height: 50px;
+    border-style: solid;
+    box-sizing: border-box;
+    background-color: green;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 22px;
+}

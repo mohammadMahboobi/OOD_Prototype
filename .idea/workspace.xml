@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/CostumerPackages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/CostumerPackages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <workItem from="1590331268600" duration="8625000" />
       <workItem from="1590380557617" duration="10061000" />
       <workItem from="1590482812333" duration="7000000" />
-      <workItem from="1590500224554" duration="1997000" />
+      <workItem from="1590500224554" duration="7727000" />
     </task>
     <servers />
   </component>
@@ -124,10 +124,10 @@
     </state>
     <state x="155" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1590234525446" />
     <state x="174" y="2" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590066500524" />
-    <state x="467" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590233979028">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590515231798">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="467" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1590233979028" />
-    <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1590067592837" />
+    <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1590515231798" />
   </component>
 </project>
