@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="" />
+    <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1590233709241" duration="1123000" />
       <workItem from="1590331268600" duration="8625000" />
       <workItem from="1590380557617" duration="10061000" />
-      <workItem from="1590482812333" duration="7000000" />
+      <workItem from="1590482812333" duration="7394000" />
     </task>
     <servers />
   </component>
@@ -114,10 +116,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1590490256537" />
-    <state x="155" y="2" key="CommitChangelistDialog2" timestamp="1590234525446">
+    <state x="155" y="2" key="CommitChangelistDialog2" timestamp="1590492264685">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="155" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1590234525446" />
+    <state x="155" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1590492264685" />
     <state x="174" y="2" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590066500524" />
     <state x="467" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590233979028">
       <screen x="0" y="0" width="1280" height="800" />
