@@ -102,7 +102,8 @@ i.caret-down {
 .wrapper section nav ul li ul.user-drop-down-menu {
     display: none;
     width: 250px;
-    background-color: rgba(50, 50, 150, 0.2);
+    background-color: rgba(214, 214, 235, 0.97);
+    position: relative;
     padding-top: 5px;
     transition: all 0.3s ease;
 }
