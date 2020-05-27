@@ -40,7 +40,6 @@
 section.packages {
     width: 100%;
     background-color: rgba(242, 242, 242, 0.4);
-
 }
 
 .packages > h1 {
@@ -49,7 +48,6 @@ section.packages {
     font-size: 35px;
     text-align: center;
     font-weight: bold;
-
 }
 
 .packages > hr {
