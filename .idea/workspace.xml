@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/signincss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/signincss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/walletcharge.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/walletcharge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,17 +54,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/books" />
       <recent name="$PROJECT_DIR$/css/icons" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -116,10 +119,12 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="346" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1589982349627" />
-    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590490256537">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="425" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590573769930">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1590490256537" />
+    <state x="425" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590573769930" />
+    <state x="425" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1590573632019" />
     <state x="155" y="2" key="CommitChangelistDialog2" timestamp="1590234525446">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
