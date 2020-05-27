@@ -89,7 +89,6 @@ section.wallet > section.charge > form > [type=radio]{
 section.wallet > section.charge > form > label:nth-child(6) , label:nth-child(8) , label:nth-child(10){
     text-align: center;
     display: inline-block;
-    font-weight: bold;
 
 }
 
