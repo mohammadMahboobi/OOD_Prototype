@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CostumerPackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/CostumerPackage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/CostumerPackages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/CostumerPackages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/walletcharge.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/walletcharge.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -101,7 +97,7 @@
       <workItem from="1590482812333" duration="7000000" />
       <workItem from="1590500224554" duration="1997000" />
       <workItem from="1590518288307" duration="308000" />
-      <workItem from="1590548462758" duration="12091000" />
+      <workItem from="1590548462758" duration="18012000" />
     </task>
     <servers />
   </component>
