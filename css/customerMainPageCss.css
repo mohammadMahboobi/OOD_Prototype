@@ -38,9 +38,45 @@
     transition: all 0.3s ease;
 }
 
+.wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li:nth-child(3) a i.caret-down {
+    margin-right: 8px;
+    box-sizing: border-box;
+}
+
 .wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li a:hover {
     background-color: #2d2eff;
     color: whitesmoke;
+}
+
+.wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li:nth-child(3) ul.genres-drop-down {
+    display: none;
+    width: 240px;
+    height: 320px;
+    overflow-y: auto;
+    background-color: rgba(214, 214, 235, 0.97);
+    position: relative;
+    padding-top: 5px;
+    transition: all 0.3s ease;
+}
+
+.wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li:nth-child(3) ul.genres-drop-down li {
+    display: block;
+    width: 100%;
+    height: 50px;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 auto;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li:nth-child(3) ul.genres-drop-down li:hover {
+    background-color: #2d2eff;
+    color: whitesmoke;
+}
+
+.wrapper section:nth-child(1) nav:nth-child(1) ul:nth-child(1) li:nth-child(3):hover .genres-drop-down {
+    display: block;
 }
 
 .wrapper > section:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(5) {
@@ -88,7 +124,7 @@
     transition: all 0.3s ease;
 }
 
-i.caret-down {
+.wrapper section nav ul li:nth-child(6) i.caret-down {
     font-size: 20px !important;
     margin-right: 5px !important;
 }

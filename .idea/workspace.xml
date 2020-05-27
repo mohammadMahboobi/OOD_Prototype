@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="" />
+    <list default="true" id="b445c41d-a998-4201-b217-cae1a5b9e5da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/CostumerPackages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/CostumerPackages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/customerMainPageCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/customerMainPageCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerMainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/customerMainPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +100,7 @@
       <workItem from="1590482812333" duration="7000000" />
       <workItem from="1590500224554" duration="1997000" />
       <workItem from="1590518288307" duration="308000" />
-      <workItem from="1590548462758" duration="6068000" />
+      <workItem from="1590548462758" duration="10988000" />
     </task>
     <servers />
   </component>
@@ -128,5 +133,9 @@
     </state>
     <state x="467" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1590233979028" />
     <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1590067592837" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1590557226482">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1590557226482" />
   </component>
 </project>
