@@ -47,14 +47,12 @@ section.wallet > h1{
     text-align:center ;
     color: gray;
     font-size: 35px;
-    margin-top: 50px;
+    margin-top: 10px !important;
     font-weight: bold;
 }
 .wallet hr{
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 70px;
+    margin: 10px auto 70px auto;
 }
 .wallet section.charge [type=text]{
     display: block;
@@ -71,8 +69,8 @@ section.wallet > h1{
     font-weight: bold;
     background-color:rgba(242,242,242,0.6);
     color: black;
-    transition: ease-in 0.3s;
-
+    outline-color: #2d2eff;
+    transition: width 0.3s ease-in;
 }
 section.wallet > section.charge > form > span:nth-child(3){
     display: block;
@@ -107,23 +105,10 @@ section.wallet > section.charge > form >[type=submit]{
     margin-top: 50px;
     border-radius: 20px;
     font-size: 18px;
+    transition: all 0.3s ease;
 }
 .wallet section.charge [type=text]:focus{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 35%;
-    height: 45px;
-    box-sizing: border-box;
-    border-radius: 5px;
-    border-color: gray;
-    border-style: solid;
-    text-align: center;
-    font-size: 15px;
-    font-weight: bold;
-    background-color:rgba(242,242,242,0.6);
-    color: black;
-
 }
 section.wallet > section.charge > form >[type=submit]:hover{
     display: block;

@@ -40,11 +40,12 @@
 section.packages {
     width: 100%;
     background-color: rgba(242, 242, 242, 0.4);
+    padding-bottom: 30px;
 }
 
 .packages > h1 {
     color: gray;
-    margin-top: 50px;
+    margin-top:20px;
     font-size: 35px;
     text-align: center;
     font-weight: bold;
